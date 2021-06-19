@@ -1,0 +1,7 @@
+matplotlib
+networkx
+requests
+pandas
+pyvis
+sqlalchemy
+tqdm
